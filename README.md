@@ -1,2 +1,2 @@
-# Practica-en-lenguaje-de-programaci-n-JAVA
+# Practica-en-lenguaje-de-programacion-JAVA
 Java Basico
